@@ -4,6 +4,7 @@ Estudos de Data Science em Python
 
 1. [Web Scraper IMDB](https://github.com/ferkrum/web-scraper-imdb)
 2. [Web Scraper Clima Atual vs Clima Histórico](https://github.com/ferkrum/web-scraper-clima-atual-vc-clima-historico)
+3. [Web scraper de manchetes atualizadas da Folha de São Paulo para arquivo CSV](https://github.com/ferkrum/web-scraper-de-manchetes-e-links-de-noticias-para-arquivo-CSV/blob/main/README.md)
 
 
 
